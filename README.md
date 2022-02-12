@@ -11,3 +11,15 @@ The dataset is split into:
 
 <br>
 For modelling, I used a sample of 20 different classes of fruits and vegetables.
+<br>
+Here is the notebook preview;
+<br>
+<br>
+<br>
+
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_1.PNG"></a>
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_2.PNG"></a>
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_3.PNG"></a>
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_4.PNG"></a>
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_5.PNG"></a>
+<a  href="https://github.com/mulongocheloti/fruit_image-classification/blob/main/Fruit%20Classification.ipynb"><img src="https://github.com/mulongocheloti/fruit_image-classification/blob/main/snapshots/snap_6.PNG"></a>
