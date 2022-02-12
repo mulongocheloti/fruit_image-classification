@@ -7,6 +7,8 @@
 Move the dataset folder into your working directory.
 <br>
 <br>
+SAMPLING
+<br>
 The two highlighted folders below contain the sample I obtained from the original <b>Test</b> and <b>Training</b> folders 
 <br>
 <br>
